@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapps/loginUI/login.dart';
+// import 'package:myapps/loginUI/login.dart';
 import 'package:myapps/splash.dart';
 import 'package:myapps/ui/home.dart';
 
